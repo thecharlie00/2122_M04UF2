@@ -3,19 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Titulito from './Titulito';
-import Piesito from './Piesito';
-import Plantilla from './Plantilla';
-import clock from './Clock';
-
 
 ReactDOM.render(
   <React.StrictMode>
-  <Plantilla />
-  <Titulito />
     <App />
-	<clock />
-	<Piesito />
   </React.StrictMode>,
   document.getElementById('root')
 );

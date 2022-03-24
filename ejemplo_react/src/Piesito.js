@@ -6,7 +6,7 @@ function Piesito(){
     return(
        <footer>
 
-       <p>Copy(c)2022 Plantilla React/p>
+       <p>Copy(c)2022 Plantilla React</p>
 	   </footer>
 
   
